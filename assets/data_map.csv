@@ -1,0 +1,6 @@
+1,2,1,You are at the entrance of a maze
+2,3,1,You are close to the entrance - it has begun to rain so you turn back to the entrance
+3,4,1,You arrive at a split - you sit down - have acup of tea and then contine by going left
+4,5,1,You stand close to the entrance and hide under a tree as the rain gets heavier then move forward
+5,6,1,You arrive somewhere familiar - the path splits and you turn right
+6,1,1,You have arrived at a dead-end - so turn around and take a tiny turning to the right
